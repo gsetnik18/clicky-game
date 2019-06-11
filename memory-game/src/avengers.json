@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "avengerName": "Stan Lee",
+        "img": "../images/Stan_Lee.jpg"
+    },
+    {
+        "id": 2,
+        "avengerName": "Ant Man",
+        "img": "../images/Ant_Man.jpg"
+    },
+    {
+        "id": 3,
+        "avengerName": "Black Widow",
+        "img": "../images/Black_Widow.jpg"
+    },
+    {
+        "id": 4,
+        "avengerName": "Iron Man",
+        "img": "../images/Iron_Man.jpg"
+    },
+    {
+        "id": 5,
+        "avengerName": "Captain America",
+        "img": "../images/Cap_America.jpg"
+    },
+    {
+        "id": 6,
+        "avengerName": "Quicksilver",
+        "img": "../images/Quicksilver.jpg"
+    },
+    {
+        "id": 7,
+        "avengerName": "Spiderman",
+        "img": "../images/Spiderman.jpg"
+    },
+    {
+        "id": 8,
+        "avengerName": "Ultron",
+        "img": "../images/Ultron.jpg"
+    },
+    {
+        "id": 9,
+        "avengerName": "Thor",
+        "img": "../images/Thor.jpg"
+    },
+    {
+        "id": 10,
+        "avengerName": "Hawkeye",
+        "img": "../images/Hawkeye.jpg"
+    },
+    {
+        "id": 11,
+        "avengerName": "Hulk",
+        "img": "../images/Hulk.jpg"
+    },
+    {
+        "id": 12,
+        "avengerName": "Thanos",
+        "img": "../images/Thanos.jpg"
+    }
+]
